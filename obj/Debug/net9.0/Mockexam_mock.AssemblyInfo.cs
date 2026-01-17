@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mockexam_mock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92c1360895b3c9656b873f1919c0900177e1fc8a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+149a4e9ce55361bd648aeb147e7cd126d81454b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mockexam_mock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mockexam_mock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
