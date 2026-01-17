@@ -1,0 +1,4 @@
+C:\01harshita\Code\Modul320\Mockexam_mock\obj\Debug\net9.0\Mockexam_mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\01harshita\Code\Modul320\Mockexam_mock\obj\Debug\net9.0\Mockexam_mock.AssemblyInfoInputs.cache
+C:\01harshita\Code\Modul320\Mockexam_mock\obj\Debug\net9.0\Mockexam_mock.AssemblyInfo.cs
+C:\01harshita\Code\Modul320\Mockexam_mock\obj\Debug\net9.0\Mockexam_mock.csproj.CoreCompileInputs.cache
